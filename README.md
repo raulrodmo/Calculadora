@@ -1,5 +1,7 @@
 Repositório feito para a criação de uma calculadora utilizando javascript.
 <br>
+Link de visualização: https://calculadora-raulrodmo.netlify.app/
+<br>
 Abaixo temos uma imagem ilustrativa:
 ![image](https://user-images.githubusercontent.com/102265187/195203851-3f7e9b49-8b52-4e62-9cf6-f9108072ec14.png)
 
